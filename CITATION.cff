@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "Si utiliza este código o los datos de este repositorio, por favor cítelos como se indica a continuación."
+type: software
+title: "Simulación metodológica para implementar un modelo cinético detallado utilizando DWSIM para el reformado seco de metano en un reactor de metal líquido"
+authors:
+  - family-names: "Agún"
+    given-names: "Bruno"
+    affiliation: "Universidad Politécnica de Madrid (UPM)"
+    orcid: "https://orcid.org/0009-0002-2055-6957"
+repository-code: "https://github.com/brunoagun/Modelo-Cinetico-DRM-DWSIM"
+license: MIT
+version: 1.0.0
+date-released: 2026-09-17
+references:
+  - type: article
+    title: "Comprehensive review on dry reforming of methane: Challenges and potential for greenhouse gas mitigation"
+    authors:
+      - family-names: "Agún"
+        given-names: "Bruno"
+      - family-names: "Abánades"
+        given-names: "Alberto"
+    journal: "International Journal of Hydrogen Energy"
+    year: 2025
+    doi: "10.1016/j.ijhydene.2025.01.160"
+   - type: article
+    title: "A methodological simulation framework for implementing a detailed kinetic model using DWSIM for dry reforming of methane in a liquid metal reactor"
+    authors:
+      - family-names: "Agún"
+        given-names: "Bruno"
+      - family-names: "Abánades"
+        given-names: "Alberto"
+    journal: "International Journal of Hydrogen Energy"
+    year: 2026
+    doi: "10.1016/j.ijhydene.2026.156383"
+  - type: thesis
+    title: "Simulación metodológica para implementar un modelo cinético detallado utilizando DWSIM para el reformado seco de metano en un reactor de metal líquido"
+    authors:
+      - family-names: "Agún"
+        given-names: "Bruno"
+    thesis-type: "phdthesis"
+    institution:
+      name: "Universidad Politécnica de Madrid"
+    year: 2026
