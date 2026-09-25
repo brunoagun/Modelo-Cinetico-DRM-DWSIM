@@ -51,9 +51,10 @@ Como resultado del trabajo se obtiene la existencia de una **transición de rég
 
 ## Referencia
 
-Si este código resulta de utilidad para su trabajo, se agradece la cita del artículo asociado:
+Si este código resulta de utilidad para su trabajo, se agradece la cita de los artículos asociados:
 
 > Agún, B., Abánades, A. (2025). *Comprehensive review on dry reforming of methane: Challenges and potential for greenhouse gas mitigation*. International Journal of Hydrogen Energy. (DOI: 10.1016/j.ijhydene.2025.01.160). 
+
 > Agún, B., Abánades, A. (2026). *A methodological simulation framework for implementing a detailed kinetic model using DWSIM for dry reforming of methane in a liquid metal reactor*. International Journal of Hydrogen Energy. (DOI: 10.1016/j.ijhydene.2026.156383).
 
 y/o de la tesis doctoral de la que procede.
