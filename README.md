@@ -38,7 +38,7 @@ Los parámetros cinéticos ($A_\text{DRM}=1{,}29\times10^6$, $E_{a,\text{DRM}}=1
 | Caudal volumétrico | 100 mL$_n$/min |
 | Densidad del Sn líquido | 6400 kg/m³ |
 | Fracción de huecos (*gas holdup*) | 2,43 % (correlación de flujo de deriva de Kataoka e Ishii) |
-| Carga de catalizador (*Catalyst Loading*) | 6244.7 kg/m³ |
+| Carga de catalizador (*Catalyst Loading*) | 6244,7 kg/m³ |
 | Paquete termodinámico | Peng-Robinson |
 
 Como resultado del trabajo se obtiene la existencia de una **transición de régimen**: el reactor opera bajo control cinético a baja temperatura y bajo control termodinámico a alta temperatura, con la frontera entre ambos regímenes situada en torno a **1050–1073 K**. Esta frontera constituye una predicción cuantitativa y contrastable experimentalmente del modelo, y su localización precisa es uno de los resultados originales de la tesis.
