@@ -62,4 +62,5 @@ y/o de la tesis doctoral de la que procede.
 ## Autor
 
 **Bruno Agún** — Doctorando en Energía Sostenible, Nuclear y Renovable, Universidad Politécnica de Madrid (UPM)
+
 Director de tesis: Alberto Abánades
