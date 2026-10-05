@@ -12,7 +12,8 @@ Este repositorio contiene la implementación completa del modelo cinético de ti
 | `DRM_Script` | Script de Python embebido en DWSIM que calcula la velocidad de la reacción de reformado seco ($r_\text{DRM}$), de acuerdo con la expresión cinética L-H derivada en el Capítulo 3 (Sección 3.5.) de la tesis. |
 | `RWGS_Script` | Script de Python embebido en DWSIM que calcula la velocidad de la reacción de desplazamiento inverso de gas de agua ($r_\text{RWGS}$), con el mismo denominador de adsorción $\Omega$ que el script anterior derivada en el Capítulo 3 (Sección 3.5.) de la tesis. |
 | `Calculos_DRM_BAG.xlsx` | Conjunto de hojas de cálculo con las verificaciones numéricas realizadas a lo largo de la tesis (modificaciones específicas de los metales líquidos; transferibilidad de los parámetros cinéticos con el cambio de dominio y el escalado BEP; el modelado, formación y gestión de carbono; la validación y consistencia termodinámica; la elección de la geometría del reactor con su justificación y el cálculo del holdup de gas). **La primera hoja contiene un índice que indica a qué sección de la tesis corresponde cada hoja del archivo.** |
-| `Analsis_Carbon.py` | Archivo que calcula la formación del carbono de forma desacoplada.|
+| `Analsis_Carbon_BAG.py` | Archivo que calcula la formación del carbono de forma desacoplada.|
+| `Analsis_Carbon_CasoBase_BAG.py` | Archivo que calcula la formación del carbono de forma desacoplada más detallada para los datos del caso base.|
 
 ## Resumen del modelo
 
